@@ -1,1 +1,1 @@
-Created using basic implementation of dart and flutter framework
+Created a quiz app using basic flutter and dart features that allows user to attempt a quiz test by choosing the answer among 4 options corresponding to each question. The user is provided with a detailed summary of this test at the end.
